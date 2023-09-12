@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://codeforces.com/profile/Lancer147">
 <img src = "https://img.shields.io/badge/Codeforces-white?logo=Codeforces"/>
   <a href="https://leetcode.com/lancerPTI">
-<img src = "https://img.shields.io/badge/leetcode-black?logo=leetcode"/>
+<img src = "https://img.shields.io/badge/Leetcode-black?logo=leetcode"/>
     
 </div> 
 
