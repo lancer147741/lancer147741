@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-<img src=https://img.shields.io/badge/Codewars?logo=gitlab&logoColor=red&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Flancer147741/>
+  <a href="www.codewars.com%2Fusers%2Flancer147741">
+<img src=https://img.shields.io/badge/Codewars?logo=gitlab&logoColor=red alt="Codewars Badge"/>
 </div>
 
