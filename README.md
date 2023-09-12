@@ -14,17 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+<div id="gif" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="75"/>
 </div>
-<div id="badges">
-  <p></h2>My links:<p/>
+<div id="header" align="center">
+  <p><b>🌱My links:</b></p>
   <a href="https://www.codewars.com/users/lancer147741/stats">
 <img src= "https://img.shields.io/badge/Codewars-red?logo=Codewars&logoColor=white"/>
   <a href="https://codeforces.com/profile/Lancer147">
 <img src = "https://img.shields.io/badge/Codeforces-white?logo=Codeforces"/>
   <a href="https://leetcode.com/lancerPTI">
 <img src = "https://img.shields.io/badge/Leetcode-black?logo=leetcode"/>
-    
 </div> 
+
+___
+
+### :hammer_and_wrench: Languages and Tools : 
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS5" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+___
+<div id='Last' align="center">
+<h2>🛠️Still under construction...</h2>
+
+  
+</div>
 
