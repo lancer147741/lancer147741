@@ -1,4 +1,6 @@
-### Hi there, Welcome to my profile!👋
+<div id='head' align='center'>
+  <h2>Hi there, Welcome to my profile!👋</h2>
+</div>  
 
 <!--
 **lancer147741/lancer147741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
