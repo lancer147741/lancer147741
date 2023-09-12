@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/Codewars?logo=gitlab&logoColor=red&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Flancer147741
+<div id="badges">
+<img src=https://img.shields.io/badge/Codewars?logo=gitlab&logoColor=red&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Flancer147741/>
+</div>
 
