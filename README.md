@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div id="badges">
   <a href="www.codewars.com%2Fusers%2Flancer147741">
-<img src= "https://img.shields.io/badge/Codewars?logo=gitlab&logoColor=red alt="Codewars Badge"/>
+<img src= "https://img.shields.io/badge/Codewars-red?logo=Codewars&logoColor=white"/>
 </div> 
 
