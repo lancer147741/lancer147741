@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My links: 👋
 
 <!--
 **lancer147741/lancer147741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 <div id="badges">
   <a href="www.codewars.com%2Fusers%2Flancer147741">
 <img src= "https://img.shields.io/badge/Codewars-red?logo=Codewars&logoColor=white"/>
+  <a href="https://codeforces.com/profile/Lancer147">
+<img src = "https://img.shields.io/badge/Codeforces-white?logo=Codeforces"/>    
 </div> 
 
