@@ -1,4 +1,4 @@
-### Hi there, My links: 👋
+### Hi there, Welcome to my profile!👋
 
 <!--
 **lancer147741/lancer147741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+</div>
 <div id="badges">
+  <p></h2>My links:<p/>
   <a href="https://www.codewars.com/users/lancer147741/stats">
 <img src= "https://img.shields.io/badge/Codewars-red?logo=Codewars&logoColor=white"/>
   <a href="https://codeforces.com/profile/Lancer147">
