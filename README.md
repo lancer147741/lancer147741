@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   <a href="www.codewars.com%2Fusers%2Flancer147741">
 <img src= "https://img.shields.io/badge/Codewars-red?logo=Codewars&logoColor=white"/>
   <a href="https://codeforces.com/profile/Lancer147">
-<img src = "https://img.shields.io/badge/Codeforces-white?logo=Codeforces"/>    
+<img src = "https://img.shields.io/badge/Codeforces-white?logo=Codeforces"/>
+  <a href="https://leetcode.com/lancerPTI">
+<img src = "https://img.shields.io/badge/leetcode-black?logo=leetcode"/>
+    
 </div> 
 
