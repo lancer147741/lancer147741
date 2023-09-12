@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-  <a href="www.codewars.com%2Fusers%2Flancer147741">
+  <a href="https://www.codewars.com/users/lancer147741/stats">
 <img src= "https://img.shields.io/badge/Codewars-red?logo=Codewars&logoColor=white"/>
   <a href="https://codeforces.com/profile/Lancer147">
 <img src = "https://img.shields.io/badge/Codeforces-white?logo=Codeforces"/>
